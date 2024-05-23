@@ -2,7 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
-@import url("topicos.css");
+@import url("styles/topicos.css");
+@import url("styles/contato.css");
+@import url("styles/footer.css");
 
 
 
@@ -13,6 +15,8 @@
     --azul: rgba(17, 37, 214, 0.541);
     --fonte-principal: "Poppins";
     --azul2:#002f52;
+    --fonte-secundaria: "Josefin Sans ";
+    --preto:#000000
 }
 
 *{

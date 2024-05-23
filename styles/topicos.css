@@ -36,3 +36,21 @@
 
 }
 
+@media screen and (min-width: 1024px) {
+
+        .topicos-titulo {
+
+            font-size:24px;
+
+        }
+
+        .topicos-lista-item {
+
+            font-size: 24px;
+        }
+
+       
+
+
+}
+    
